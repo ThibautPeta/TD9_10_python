@@ -2,26 +2,56 @@
 
 TEST SUR UNE ANNEE
 
+Yohan - 
+
+Type de vente effectuée en France (Histogramme)   
+Type de vente effectuée par région (Histogramme)
+Type de vente effectuée par département (Histogramme)
+
+Date des ventes en France (Histogramme)
+Date des ventes par région (Histogramme)
+
+Nbr de ventes/achat par région pour appart/maison
+Nbr de ventes/achat par département pour appart/maison
+
+Thibaut - 
+
 Valeur foncière en fonction de la superfice du logement (Prix au M²) en France pour appart/maison
-Valeur foncière en fonction de la superfice du logement (Prix au M²) par région pour appart/maison
+Valeur foncière en fonction de la superfice du logement (Prix au M²) par région pour appart/maison (Faire une carte)
+Valeur foncière en fonction de la superfice du logement (Prix au M²) par département pour appart/maison
 Valeur foncière en fonction de la superfice du logement (Prix au M²) par ville pour appart/maison
 
+Valeur foncière en fonction du nombre de pièces par région pour appart/maison (Faire une carte)
+Valeur foncière en fonction du nombre de pièces par département pour appart/maison
 
+Yoh/Thib - 
 
+Valeur foncière des terrains par région
+Valeur foncière des terrains par département
+Valeur foncière des terrains par ville
+Moyenne des surfaces de terrain vendu par département
 
+Ny Andy - 
 
-
-
-
-
-
-
-
-
-
-
-
+Valeur foncière d'un local commercial par région
+Valeur foncière d'un culture nature par région
+Valeur foncière d'un culture nature spécial par région
 
 TEST SUR PLUSIEURS ANNEES
 
-Evolution du prix au M²
+Ny Andy - 
+
+Evolution du prix au M² par région
+Evolution du prix au M² par département
+Evolution du nbr de vente en France
+Evolution de la valeur foncière d'un culture nature par région
+Evolution de la valeur foncière des terrains par région
+
+
+
+
+
+
+
+
+
