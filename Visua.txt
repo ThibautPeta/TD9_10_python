@@ -1,0 +1,27 @@
+
+
+TEST SUR UNE ANNEE
+
+Valeur foncière en fonction de la superfice du logement (Prix au M²) en France pour appart/maison
+Valeur foncière en fonction de la superfice du logement (Prix au M²) par région pour appart/maison
+Valeur foncière en fonction de la superfice du logement (Prix au M²) par ville pour appart/maison
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TEST SUR PLUSIEURS ANNEES
+
+Evolution du prix au M²
