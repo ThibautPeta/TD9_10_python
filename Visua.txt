@@ -17,8 +17,8 @@ Nbr de ventes/achat par département pour appart/maison
 Thibaut - 
 
 Valeur foncière en fonction de la superfice du logement (Prix au M²) en France pour appart/maison
-Valeur foncière en fonction de la superfice du logement (Prix au M²) par région pour appart/maison (Faire une carte)
-Valeur foncière en fonction de la superfice du logement (Prix au M²) par département pour appart/maison
+Valeur foncière en fonction de la superfice du logement (Prix au M²) par région pour appart/maison (Faire une carte) FAIT
+Valeur foncière en fonction de la superfice du logement (Prix au M²) par département pour appart/maison FAIT
 Valeur foncière en fonction de la superfice du logement (Prix au M²) par ville pour appart/maison
 
 Valeur foncière en fonction du nombre de pièces par région pour appart/maison (Faire une carte)
