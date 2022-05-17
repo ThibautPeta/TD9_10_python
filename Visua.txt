@@ -19,21 +19,21 @@ Thibaut -
 Valeur foncière en fonction de la superfice du logement (Prix au M²) en France pour appart/maison
 Valeur foncière en fonction de la superfice du logement (Prix au M²) par région pour appart/maison (Faire une carte) FAIT
 Valeur foncière en fonction de la superfice du logement (Prix au M²) par département pour appart/maison FAIT
-Valeur foncière en fonction de la superfice du logement (Prix au M²) par ville pour appart/maison
+Valeur foncière en fonction de la superfice du logement (Prix au M²) par ville pour appart/maison FAIT (mais marche pas chelou)
 
-Valeur foncière en fonction du nombre de pièces par région pour appart/maison (Faire une carte)
-Valeur foncière en fonction du nombre de pièces par département pour appart/maison
+Valeur foncière en fonction du nombre de pièces par région pour appart/maison (Faire une carte) FAIT
+Valeur foncière en fonction du nombre de pièces par département pour appart/maison FAIT
 
 Yoh/Thib - 
 
-Valeur foncière des terrains par région
-Valeur foncière des terrains par département
-Valeur foncière des terrains par ville
-Moyenne des surfaces de terrain vendu par département
+Valeur foncière en fonction de la superfice du logement (Prix au M²) des Local industriel. commercial ou assimilé par région FAIT
+Valeur foncière en fonction de la superfice du logement (Prix au M²) des Local industriel. commercial ou assimilé par département FAIT
+Valeur foncière en fonction de la superfice du logement (Prix au M²) des Local industriel. commercial ou assimilé par ville FAIT (mais marche pas chelou)
+Moyenne des surfaces de terrain vendu par département FAIT
+Moyenne des surfaces de terrain vendu par régions FAIT
 
 Ny Andy - 
 
-Valeur foncière d'un local commercial par région
 Valeur foncière d'un culture nature par région
 Valeur foncière d'un culture nature spécial par région
 
