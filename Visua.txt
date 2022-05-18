@@ -34,7 +34,7 @@ Moyenne des surfaces de terrain vendu par régions FAIT
 
 Ny Andy - 
 
-Valeur foncière d'un culture nature par région
+Valeur foncière d'un culture nature par région FAIT
 Valeur foncière d'un culture nature spécial par région
 
 TEST SUR PLUSIEURS ANNEES
