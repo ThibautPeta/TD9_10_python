@@ -244,6 +244,7 @@ def plot_time_line_reg(col,region,title="",yaxis_title="", slide = False):
     fig.update_layout(title=(col if title=="" else title + " en " + region), xaxis_title="Annee", yaxis_title=yaxis_title)
     if(slide):
         fig.update_layout(xaxis_rangeslider_visible=True)
+    
     return fig
 # Create your views here.
 
@@ -263,8 +264,8 @@ def visuType(request):
     }
     return render(request, 'ValFonc/visu.html', context)
 def visuReg(request):
-    visu_type = request.POST['visu_type']
-    region = request.POST['region']
+    visu_type = request.GET['visu_type']
+    region = request.GET['region']
     context = {
         'fig' : plot_time_line_reg(visu_type, region, "Evolution de " + visu_type + " en " + region, visu_type),
         'visu_type' : visu_type,

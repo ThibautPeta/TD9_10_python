@@ -16,7 +16,7 @@
 
 <body>
 
-    <form action="{% url 'valFonc:visuReg'%}" methode="post">
+    <form action="{% url 'visuReg'%}" methode="post">
         {% csrf_token %}
         <label for="visu_type">Choisissez un visuel : </label>
         <select name="visu_type" id="visu_type">
@@ -44,7 +44,7 @@
             <option value="Pays de la Loire">Auvergne-Rhône-Alpes</option>
 
         </select> <!-- Oui je ne sais plus faire d'HTML, ça fait longtemps que j'ai arreté-->
-
+        <input type="submit" value="Résultat">
     </form>
     <script src="" async defer></script>
 </body>
