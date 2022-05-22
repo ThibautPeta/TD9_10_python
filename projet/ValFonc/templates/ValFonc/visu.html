@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Evolution par région</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+
+    <form action="{% url 'valFonc:visuReg'%}" methode="post">
+        {% csrf_token %}
+        <label for="visu_type">Choisissez un visuel : </label>
+        <select name="visu_type" id="visu_type">
+            <option value="Prix au m²">Prix au m²</option>
+            <option value="Valeur fonciere">Valeur foncière</option>
+        </select>
+        <label for="region">Pour quelle région ?</label>
+        <select name="region" id="region">
+            <option value="Auvergne-Rhône-Alpes">Auvergne-Rhône-Alpes</option>
+            <option value="Bourgogne-Franche-Comté">Bourgogne-Franche-Comté</option>
+            <option value="Bretagne">Bretagne</option>
+            <option value="Centre-Val de Loire">Centre-Val de Loire</option>
+            <option value="Corse">Corse</option>
+            <option value="Grand Est">Grand Est</option>
+            <option value="Guadeloupe">Guadeloupe</option>
+            <option value="Guyane">Guyane</option>
+            <option value="Hauts-de-France">Hauts-de-France</option>
+            <option value="Île-de-France">Île-de-France</option>
+            <option value="La Réunion">La Réunion</option>
+            <option value="Martinique">Martinique</option>
+            <option value="Normandie">Normandie</option>
+            <option value="Nouvelle-Aquitaine">Nouvelle-Aquitaine</option>
+            <option value="Occitanie">Occitanie</option>
+            <option value="Pays de la Loire">Auvergne-Rhône-Alpes</option>
+            <option value="Pays de la Loire">Auvergne-Rhône-Alpes</option>
+
+        </select> <!-- Oui je ne sais plus faire d'HTML, ça fait longtemps que j'ai arreté-->
+
+    </form>
+    <script src="" async defer></script>
+</body>
+
+</html>
